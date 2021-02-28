@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Hello from dotnet bot](https://github.com/dotnet/brand/blob/master/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_presenting.png "Dotnet-bot-presenting")
+
 <!--
 **iamyasinkaya/iamyasinkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
