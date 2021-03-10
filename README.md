@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Hello from dotnet bot](https://github.com/dotnet/brand/blob/master/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_presenting.png "Dotnet-bot-presenting")
+"https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_presenting.png"
 
 ## Know / Using 🧠
 
