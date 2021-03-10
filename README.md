@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-"https://github.com/dotnet/brand/blob/main/dotnet-bot-illustrations/dotnet-bot/dotnet-bot_presenting.png"
 
 ## Know / Using 🧠
 
