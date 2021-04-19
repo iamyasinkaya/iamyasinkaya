@@ -31,9 +31,17 @@ Contact with me via these platforms!
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamyasinkaya&show_icons=true&locale=en" alt="iamyasinkaya" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamyasinkaya&show_icons=true&locale=en&layout=compact" alt="iamyasinkaya" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=iamyasinkaya&count_private=true&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamyasinkaya&hide=html,ruby&layout=compact&show_icons=true&theme=tokyonight">
+  <a href="https://github.com/gulceselim/re-cap-project-with-csharp">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=iamyasinkaya&repo=re-cap-project-with-csharp&show_icons=true&theme=tokyonight"</img>
+  </a>
+  <a href="https://github.com/gulceselim/gulceselim">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=gulceselim&repo=gulceselim&show_icons=true&theme=tokyonight"</img>
+  </a>
 </p>
 
 <p align="center">
