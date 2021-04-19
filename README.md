@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Yasin Kaya
+<h1 align="center">Hi 👋, I'm Yasin Kaya 
+<br/>
 Contact with me via these platforms! 
 
  <a href="https://www.linkedin.com/in/yasin-kaya-b4a735b9/" target="_blank" rel="nofollow"><img alt="Yasin's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="mailto:iamyasinkaya@gmail.com" target="_blank" rel="nofollow"><img alt="Yasin's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
- </h1>
+</h1>
 <h3 align="center">A software developer from Turkey</h3>
 
 <p align="center">
