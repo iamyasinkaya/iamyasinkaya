@@ -9,7 +9,7 @@ Contact with me via these platforms!
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=iamyasinkaya&column=4&margin-w=15&margin-h=15" alt="aerdogan" />
+    <img src="https://github-profile-trophy.vercel.app/?username=iamyasinkaya&column=4&margin-w=15&margin-h=15" alt="iamyasinkaya" />
   </a> 
 </p>
 
