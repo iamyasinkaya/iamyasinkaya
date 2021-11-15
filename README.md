@@ -8,7 +8,7 @@ Contact with me via these platforms!
 <h3 align="center">A software developer from Turkey</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/iamyasinkaya">
     <img src="https://github-profile-trophy.vercel.app/?username=iamyasinkaya&column=4&margin-w=15&margin-h=15" alt="iamyasinkaya" />
   </a> 
 </p>
