@@ -22,7 +22,7 @@ Contact with me via these platforms!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aerdogan&show_icons=true&locale=en" alt="aerdogan" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aerdogan&show_icons=true&locale=en&layout=compact" alt="aerdogan" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamyasinkaya&show_icons=true&locale=en&layout=compact" alt="aerdogan" /> 
 </p>
 
 <p align="center">
