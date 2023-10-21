@@ -3,8 +3,7 @@ Hi! My name is Yasin Kaya. I am interested in software development and technolog
 ## Projects
 
 - [Hotel Reservation Application](https://github.com/iamyasinkaya/GondorsLegacy): The "Gondor's Legacy" project is centered around hotel reservations. It provides functionalities for creating, managing, and canceling reservations.
-- [Personal Blog Application] (https://github.com/iamyasinkaya/Personal-Blog-Application): This application is designed to enable users to create, manage, and publish their personal blog posts.
-
+- [Personal Blog Application](https://github.com/iamyasinkaya/Personal-Blog-Application): This application is designed to enable users to create, manage, and publish their personal blog posts.
 
 Besides these projects, I work on various small projects to gain experience with different programming languages and technologies.
 
