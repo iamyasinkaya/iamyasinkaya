@@ -2,15 +2,15 @@ Hi! My name is Yasin Kaya. I am interested in software development and technolog
 
 ## Projects
 
-- [Personal-Blog-Application](https://github.com/iamyasinkaya/Personal-Blog-Application): A simple personal blogging application.
-- [Todo-App](https://github.com/iamyasinkaya/Todo-App): A simple to-do list app.
-- [Weather-App](https://github.com/iamyasinkaya/Weather-App): A weather app that shows weather information.
+- [Hotel Reservation Application](https://github.com/iamyasinkaya/GondorsLegacy): The "Gondor's Legacy" project is centered around hotel reservations. It provides functionalities for creating, managing, and canceling reservations.
+- [Personal Blog Application] (https://github.com/iamyasinkaya/Personal-Blog-Application): This application is designed to enable users to create, manage, and publish their personal blog posts.
+
 
 Besides these projects, I work on various small projects to gain experience with different programming languages and technologies.
 
 ## Contribute
 
-I enjoy contributing to open source projects and interacting with the community. If you would like to contribute to any of my projects, please feel free to create a fork and submit a pull request.
+I enjoy contributing to open-source projects and interacting with the community. If you would like to contribute to any of my projects, please feel free to create a fork and submit a pull request.
 
 I am also happy to collaborate on new projects or exchange ideas. If you have any questions or suggestions, please feel free to contact me.
 
