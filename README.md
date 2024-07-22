@@ -1,4 +1,4 @@
-Hi! My name is Yasin Kaya. I am interested in software development and technology. Here I try to share my knowledge and experience by sharing my projects and contributing to open source projects.
+Hi, I'm Yasin. I am interested in software development and technology. Here I share my knowledge and experience by sharing my projects and contributing to open source projects.
 
 
 ## 🌐 Socials:
