@@ -1,23 +1,5 @@
 Hi! My name is Yasin Kaya. I am interested in software development and technology. Here I try to share my knowledge and experience by sharing my projects and contributing to open source projects.
 
-## Projects
-
-- [Hotel Reservation Application](https://github.com/iamyasinkaya/GondorsLegacy): The "Gondor's Legacy" project is centered around hotel reservations. It provides functionalities for creating, managing, and canceling reservations.
-- [Personal Blog Application](https://github.com/iamyasinkaya/Personal-Blog-Application): This application is designed to enable users to create, manage, and publish their personal blog posts.
-
-Besides these projects, I work on various small projects to gain experience with different programming languages and technologies.
-
-## Contribute
-
-I enjoy contributing to open-source projects and interacting with the community. If you would like to contribute to any of my projects, please feel free to create a fork and submit a pull request.
-
-I am also happy to collaborate on new projects or exchange ideas. If you have any questions or suggestions, please feel free to contact me.
-
-
-Thank you and appreciate you taking the time to review my projects!
-
-==================================================================================================================================
-
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/iamyasinkaya) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamyasinkaya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamyasinkaya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamyasinkaya) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@iamyasinkaya) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/iamyasinkaya) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/iamyasinkaya) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/iamyasinkaya) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@iamyasinkaya) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/iamyasinkaya) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamyasinkaya) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/iamyasinkaya) 
@@ -41,10 +23,7 @@ Thank you and appreciate you taking the time to review my projects!
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iamyasinkaya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=iamyasinkaya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
